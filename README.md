@@ -6,16 +6,18 @@ I have many years of experience helping companies to develop better software. I 
 
 I love sharing knowledge through my training classes, webinars and one-on-one coaching.
 
-When I am not working, I spend time on Stack overflow answering questions about CQRS, OpenID-Connect and IdentityServer
+When I am not working, I spend time on Stack overflow answering questions about CQRS, OpenID-Connect, IdentityServer and .NET.
 
 <a href="https://stackoverflow.com/users/68490/tore-nestenius"><img src="https://stackoverflow.com/users/flair/68490.png" width="208" height="58" alt="profile for Tore Nestenius at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tore Nestenius at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-**Trivia:**
+## Trivia
 - 🔭 I’m currently working on creating new and interesting training classes
 - 🌱 I’m currently learning Creating dashboards with Grafana
-- 👯 I’m looking to collaborate on: CSharp projects and interesting startup projects
+- 👯 I’m looking for: Interesting consulting and training projects
 - 💬 Ask me about CQRS / EventSourcing, C#, OpenID-Connect, IdentityServer, Web Security and Software Architecture...
-- 📫 How to reach me: [My homepage](https://www.nestenius.se) and [My company](https://www.tn-data.se)
+- 📫 How to reach me: [My homepage(https://www.nestenius.se) and [My company](https://www.tn-data.se)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Member of the Atari ST demo group SYNC
-
+- ⚡ Fun facts:
+   - Member of the Atari ST demo group [SYNC](http://www.lysator.liu.se/~celeborn/sync/page3.html)
+   - Co-creator of [cqrs.nu](https://www.cqrs.nu/)
+   - Co-founder of [Edument AB](https://www.edument.se)
