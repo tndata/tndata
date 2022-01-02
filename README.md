@@ -8,7 +8,7 @@ I love sharing knowledge through my training classes, webinars and one-on-one co
 
 When I am not working, I spend time on Stack overflow answering questions about CQRS, OpenID-Connect, IdentityServer and .NET.
 
-<a href="https://stackoverflow.com/users/68490/tore-nestenius"><img src="https://stackoverflow.com/users/flair/68490.png" width="208" height="58" alt="profile for Tore Nestenius at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tore Nestenius at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/68490/tore-nestenius"><img src="https://stackoverflow.com/users/flair/68490.png?theme=clean" width="208" height="58" alt="profile for Tore Nestenius at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tore Nestenius at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Trivia
 - 🔭 I’m currently working on creating new and interesting training classes
