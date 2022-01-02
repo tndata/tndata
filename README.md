@@ -15,9 +15,10 @@ When I am not working, I spend time on Stack overflow answering questions about 
 - 🌱 I’m currently learning Creating dashboards with Grafana
 - 👯 I’m looking for: Interesting consulting and training projects
 - 💬 Ask me about CQRS / EventSourcing, C#, OpenID-Connect, IdentityServer, Web Security and Software Architecture...
-- 📫 How to reach me: [My homepage(https://www.nestenius.se) and [My company](https://www.tn-data.se)
+- 📫 How to reach me: [my homepage](https://www.nestenius.se) and [my company](https://www.tn-data.se)
 - 😄 Pronouns: he/him
 - ⚡ Fun facts:
    - Member of the Atari ST demo group [SYNC](http://www.lysator.liu.se/~celeborn/sync/page3.html)
    - Co-creator of [cqrs.nu](https://www.cqrs.nu/)
    - Co-founder of [Edument AB](https://www.edument.se)
+   - Created in 1996 a developer community called Programmers Heaven
